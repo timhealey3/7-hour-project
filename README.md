@@ -8,5 +8,6 @@ I like to build project, but I'm relatively busy. So I decided I would create on
 - **Week 4** Text with Local LLM Agent https://github.com/timhealey3/text_llm_agent
 - **Week 4** Local Voice Home Assistant 
           - Main backend Agent llm logic: https://github.com/timhealey3/local-voice-assistant-kotlin-backend
-          - text to speech flash API: https://github.com/timhealey3/local-voice-assistant-kotlin-backend
+          - text to speech flask API: https://github.com/timhealey3/py-text-to-speach-api
           - Large LLM API: https://github.com/timhealey3/llm-api-kotlin
+          - LLM Prompt/Request Caching: https://github.com/timhealey3/llm-cache-redis
